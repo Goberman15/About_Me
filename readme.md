@@ -24,24 +24,3 @@ I hope that one day, I can wake up to the world where our maritime sector is ful
 
 Salam,
 Akbar.
-
-# **JALESVEVA JAYAMAHE**
-
-Jalesveva Jayamahe adalah sebuah game berbentuk quiz trivia untuk menguji pengetahuan mu tentang dunia perkapalan dan sejarahnya. Game ini dikemas seolah lah kamu akan seorang pelaut yang akan memasuki sebuah kapal bertipe Battlecruiser yang bernama Elixir. Sebelum masuk ke kapal ini kamu akan lebih dulu dites pengetahuannya melalui 25 soal yang nantinya akan menentukan pangkat mu di atas kapal.
-
-## **Penentuan pangkat dari pemain adalah sebagai berikut:**
-
-| Soal terjawab | Rank | 
-|-----------|:-----------:| 
-| 0 | Cadet |  
-| 1-2 | Cadet |
-| 0 | Cadet |
-| 0 | Cadet |
-| 0 | Cadet |
-| 0 | Cadet |
-| 0 | Cadet |
-| 0 | Cadet |
-| 0 | Cadet |
-| 0 | Cadet |
-| 0 | Cadet |
-
